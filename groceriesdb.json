@@ -103,13 +103,6 @@
 			"shelf": "B"
 		},
 		{
-			"name":	"Cucumber",
-			"type":	"vegetables",
-			"image": "https://i2.wp.com/leafynew.com/wp-content/uploads/2020/03/Cucumber-1.jpg?fit=917%2C1000&ssl=1",
-			"price": "60",
-			"shelf": "B"
-		},
-		{
 			"name":	"Capsicum",
 			"type":	"vegetables",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTr5rgqukuCKbtEm3ObJnXBnupxK98hFFknz6NFmeiG7D5X7Nu9&usqp=CAU",
